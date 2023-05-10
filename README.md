@@ -20,5 +20,5 @@
     O projeto usa o HTML5 e CSS3 para criar um website de uma barbearia como exemplo.
 </p>
 <p>
-    <a href="https://matheuslmarchetti.github.io/Curso-de-HTML5-e-CSS3-da-Alura" target="_blank" rel="noopener noreferrer">Acesse Aqui a página do projeto: Barbearia Alura.</a>
+    <a href="https://matheuslmarchetti.github.io/Curso-de-HTML5-e-CSS3-da-Alura/" target="_blank" rel="noopener noreferrer">Acesse Aqui a página do projeto: Barbearia Alura.</a>
 </p>
