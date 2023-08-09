@@ -1,7 +1,12 @@
-# Curso-de-HTML5-e-CSS3-da-Alura ![Status Badge](https://img.shields.io/badge/Status-Done-black?style=plastic&label=Status&labelColor=%23030303&color=%2301FF4D)
+# Curso de HTML5 e CSS3 da Alura 
 
 ![Capa Curso de HTML5 e CSS3 da Alura][capacursodeHTML5eCSS3daAlura]
 
+![HTML Badge](https://img.shields.io/badge/HTML-5-black?style=plastic&logo=html5&label=HTML&logoColor=%23ffffff&labelColor=%23030303&color=%232B2B2B)
+![CSS Badge](https://img.shields.io/badge/CSS-3-black?style=plastic&logo=css3&logoColor=%23ffffff&label=CSS&labelColor=%23030303&color=%232B2B2B)
+![VSCode Badge](https://img.shields.io/badge/visualstudiocode-IDE-black?style=plastic&logo=visualstudiocode&logoColor=%23ffffff&label=VS%20Code&labelColor=%23030303&color=%232B2B2B)
+![License Badge](https://img.shields.io/badge/License-MIT-black?style=plastic&logoColor=%23ffffff&label=License&labelColor=%23030303&color=%232B2B2B)
+![Status Badge](https://img.shields.io/badge/Status-Done-black?style=plastic&label=Status&labelColor=%23030303&color=%2301FF4D)
 ## Índice <a name="readme-top"></a>
 
 - [Sobre o projeto](#sobre-o-projeto)
